@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/bin/Debug/net6.0/05_Booleans
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/bin/Debug/net6.0/05_Booleans.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/bin/Debug/net6.0/05_Booleans.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/bin/Debug/net6.0/05_Booleans.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/bin/Debug/net6.0/05_Booleans.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/refint/05_Booleans.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/05_Booleans.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/05_Booleans/obj/Debug/net6.0/ref/05_Booleans.dll

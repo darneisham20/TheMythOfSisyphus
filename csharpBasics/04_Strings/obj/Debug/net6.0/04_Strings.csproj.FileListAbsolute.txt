@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/bin/Debug/net6.0/04_Strings
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/bin/Debug/net6.0/04_Strings.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/bin/Debug/net6.0/04_Strings.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/bin/Debug/net6.0/04_Strings.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/bin/Debug/net6.0/04_Strings.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/refint/04_Strings.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/04_Strings.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/04_Strings/obj/Debug/net6.0/ref/04_Strings.dll
