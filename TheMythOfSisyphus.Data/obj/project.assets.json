@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus_Repository\\TheMythOfSisyphus_Repository.csproj",
-      "projectName": "TheMythOfSisyphus_Repository",
-      "projectPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus_Repository\\TheMythOfSisyphus_Repository.csproj",
+      "projectUniqueName": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Data\\TheMythOfSisyphus.Data.csproj",
+      "projectName": "TheMythOfSisyphus.Data",
+      "projectPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Data\\TheMythOfSisyphus.Data.csproj",
       "packagesPath": "C:\\Users\\Neisha\\.nuget\\packages\\",
-      "outputPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus_Repository\\obj\\",
+      "outputPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Neisha\\AppData\\Roaming\\NuGet\\NuGet.Config"
