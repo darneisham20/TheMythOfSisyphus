@@ -22,3 +22,7 @@ Leg
 6
 Credit_Card
 1
+|
+7
+Disarming_Phrase
+1

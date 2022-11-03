@@ -24,4 +24,10 @@ public static class GameUtilities
         }
         return playerStartingItems;
     }
+
+    public static void TellTheStory(string storySection)
+    {
+        System.Console.WriteLine(storySection);
+    }
+
 }

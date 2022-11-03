@@ -6,7 +6,7 @@ public class Player
         SetupPlayerInitialization();
     }
 
-// If we want the user to have a name!
+    // If we want the user to have a name!
     // public Player(string name)
     // {
     //     Name = name;
@@ -23,6 +23,7 @@ public class Player
     private InGameItem Arm;
     private InGameItem Leg;
     private InGameItem CreditCard;
+    private InGameItem DisarmingPhrase;
 
     private void SetupPlayerInitialization()
     {
@@ -33,5 +34,6 @@ public class Player
         Arm = Items[3];
         Leg = Items[4];
         CreditCard = Items[5];
+        DisarmingPhrase = Items[6];
     }
 }
