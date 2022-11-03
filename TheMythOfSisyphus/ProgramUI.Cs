@@ -2,10 +2,14 @@ using static System.Console;
 
 public class Program_UI
 {
-    public Program_UI()
-    {
-        SeedData();
-    }
+    
+    private bool IsRunning = true;
+
+    // REPOSITORY
+    // public Program_UI()
+    // {
+    //     SeedData();
+    // }
 
     public void Run()
     {
@@ -51,7 +55,7 @@ public class Program_UI
     private void StartGame()
     {
         Clear();
-        
+
     }
 
 
