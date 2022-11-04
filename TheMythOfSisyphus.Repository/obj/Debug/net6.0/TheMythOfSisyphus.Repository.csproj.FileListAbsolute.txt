@@ -1,0 +1,15 @@
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\bin\Debug\net6.0\TheMythOfSisyphus.Repository.deps.json
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\bin\Debug\net6.0\TheMythOfSisyphus.Repository.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\bin\Debug\net6.0\TheMythOfSisyphus.Repository.pdb
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\bin\Debug\net6.0\TheMythOfSisyphus.Data.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\bin\Debug\net6.0\TheMythOfSisyphus.Data.pdb
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.AssemblyInfo.cs
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.csproj.CopyComplete
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\refint\TheMythOfSisyphus.Repository.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\TheMythOfSisyphus.Repository.pdb
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Repository\obj\Debug\net6.0\ref\TheMythOfSisyphus.Repository.dll

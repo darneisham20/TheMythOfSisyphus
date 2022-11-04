@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "TheMythOfSisyphus.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TheMythOfSisyphus.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TheMythOfSisyphus.Data.dll": {}
+        }
+      },
+      "TheMythOfSisyphus.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TheMythOfSisyphus.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TheMythOfSisyphus.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TheMythOfSisyphus.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TheMythOfSisyphus.Data/1.0.0": {
+      "type": "project",
+      "path": "../TheMythOfSisyphus.Data/TheMythOfSisyphus.Data.csproj",
+      "msbuildProject": "../TheMythOfSisyphus.Data/TheMythOfSisyphus.Data.csproj"
+    },
+    "TheMythOfSisyphus.Repository/1.0.0": {
+      "type": "project",
+      "path": "../TheMythOfSisyphus.Repository/TheMythOfSisyphus.Repository.csproj",
+      "msbuildProject": "../TheMythOfSisyphus.Repository/TheMythOfSisyphus.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "TheMythOfSisyphus.Data >= 1.0.0",
+      "TheMythOfSisyphus.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Neisha\\.nuget\\packages\\": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Data\\TheMythOfSisyphus.Data.csproj": {
+              "projectPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Data\\TheMythOfSisyphus.Data.csproj"
+            },
+            "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Repository\\TheMythOfSisyphus.Repository.csproj": {
+              "projectPath": "D:\\ElevenFiftyProjects\\Assignments\\TheMythOfSisyphus\\TheMythOfSisyphus.Repository\\TheMythOfSisyphus.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

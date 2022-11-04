@@ -1,0 +1,12 @@
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\bin\Debug\net6.0\TheMythOfSisyphus.Data.deps.json
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\bin\Debug\net6.0\TheMythOfSisyphus.Data.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\bin\Debug\net6.0\TheMythOfSisyphus.Data.pdb
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.AssemblyInfo.cs
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\refint\TheMythOfSisyphus.Data.dll
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\TheMythOfSisyphus.Data.pdb
+D:\ElevenFiftyProjects\Assignments\TheMythOfSisyphus\TheMythOfSisyphus.Data\obj\Debug\net6.0\ref\TheMythOfSisyphus.Data.dll
