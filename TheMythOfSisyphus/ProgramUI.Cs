@@ -4,7 +4,7 @@ public class Program_UI
 {
 
     private bool IsRunning = true;
-
+    bool MissionComplete = false;
     // REPOSITORY
     // public Program_UI()
     // {
@@ -191,52 +191,96 @@ public class Program_UI
     {
         Console.Clear();
 
-        System.Console.WriteLine("You approach the counter. Choose an item: \n" +
+        bool driversLTurnedIn = false;
+        bool socialSTurnedIn = false;
+        bool birthCTurnedIn = false;
+        int count = 0;
+        bool isDriverLSelected = false;
+        bool isSocialSSelected = false;
+        bool isBirthCSelected = false;
+
+
+        while (count <= 3)
+        {
+            System.Console.WriteLine("You approach the counter. Choose an item: \n" +
             "1. Driver's License \n" +
             "2. Social Security Card \n" +
             "3. Birth Certificate \n" +
             "4. Arm \n" +
             "5. Leg \n" +
-            "6. Credit Card \n");
+            "6. Credit Card");
 
-        var userInput = ReadLine();
-        switch (userInput)
-        {
-            case "1":
-                DriversL();
-                break;
-            case "2":
-                SocialS();
-                break;
-            case "3":
-                BirthC();
-                break;
-            case "4":
-                Arm();
-                break;
-            case "5":
-                Leg();
-                break;
-            case "6":
-                CreditC();
-                break;
+            var userInput = ReadLine();
+            switch (userInput)
+            {
+                case "1":
+                    DriversL();
+                    if (!isDriverLSelected)
+                    {
+                        isDriverLSelected = true;
+                        count++;
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("Sorry this is already selected");
+                    }
+                    break;
+                case "2":
+                    SocialS();
+                    if (!isSocialSSelected)
+                    {
+                        isSocialSSelected = true;
+                        count++;
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("Sorry this is already selected");
+                    }
+                    break;
+                case "3":
+                    BirthC();
+                    if (!isBirthCSelected)
+                    {
+                        isBirthCSelected = true;
+                        count++;
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("Sorry this is already selected");
+                    }
+                    break;
+                case "4":
+                    Arm();
+                    break;
+                case "5":
+                    Leg();
+                    break;
+                case "6":
+                    CreditC();
+                    break;
+            }
         }
-    }
 
+        LastScenario();
+    }
     private void DriversL()
     {
-
+        System.Console.WriteLine("Thank you for your Driver's License...");
+        bool driversLTurnedIn = true;
     }
 
     private void SocialS()
     {
-
+        System.Console.WriteLine("Thank you for your Social Security Card");
+        bool socialSTurnedIn = true;
     }
 
     private void BirthC()
     {
-
+        System.Console.WriteLine("Thank you for your Birth Certificate");
+        bool birthCTurnedIn = true;
     }
+
 
     private void Arm()
     {
@@ -248,7 +292,7 @@ public class Program_UI
     private void Leg()
     {
         System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair…you think it's about to charge and go back to your seat to try again");
-        
+
         SeatCounter();
     }
 
@@ -277,6 +321,19 @@ public class Program_UI
 
         ApproachingTheCounter();
     }
+
+    private void LastScenario()
+    {
+
+    }
+
+    private void YouWonTheGame()
+    {
+        System.Console.WriteLine("");
+
+        CloseGame();
+    }
+
 
     private void YouLostTheGame()
     {

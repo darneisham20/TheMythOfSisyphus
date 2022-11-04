@@ -1,6 +1,5 @@
 public class Player
 {
-
     public Player()
     {
         SetupPlayerInitialization();
