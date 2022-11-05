@@ -194,9 +194,9 @@ public class Program_UI
 
     private void ApproachingTheCounter()
     {
-        bool driversLTurnedIn = false;
-        bool socialSTurnedIn = false;
-        bool birthCTurnedIn = false;
+       // bool driversLTurnedIn = false;
+       // bool socialSTurnedIn = false;
+       // bool birthCTurnedIn = false;
         int count = 1;
         bool isDriverLSelected = false;
         bool isSocialSSelected = false;
@@ -277,19 +277,19 @@ public class Program_UI
     private void DriversL()
     {
         System.Console.WriteLine("Thank you for your Driver's License...");
-        bool driversLTurnedIn = true;
+       // bool driversLTurnedIn = true;
     }
 
     private void SocialS()
     {
         System.Console.WriteLine("Thank you for your Social Security Card");
-        bool socialSTurnedIn = true;
+        //bool socialSTurnedIn = true;
     }
 
     private void BirthC()
     {
         System.Console.WriteLine("Thank you for your Birth Certificate");
-        bool birthCTurnedIn = true;
+      //  bool birthCTurnedIn = true;
     }
 
 
