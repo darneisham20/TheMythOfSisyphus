@@ -141,6 +141,10 @@ public class Program_UI
         Console.Clear();
 
         System.Console.WriteLine("You arrive at the BMV and see four seats taken by the following characters...(C1, C2, C3, C4)");
+
+        PressAnyKeyToContinue();
+        Console.Clear();
+
         System.Console.WriteLine("You pull a number from the MICROFRAME B80 TURN-O-MATIC TAKE A NUMBER TICKET DISPENSER available at Microframe Corp (https://microframecorp.com/6000-0090-kit-b80-turn-o-matic-take-a-number-ticket-dispenser-floor-kit)");
         System.Console.WriteLine("Please enter a number from 5-8");
 
@@ -184,21 +188,19 @@ public class Program_UI
         }
 
         PressAnyKeyToContinue();
+        Console.Clear();
         ApproachingTheCounter();
     }
 
-
-    // DOES NOT WORK
     private void ApproachingTheCounter()
     {
         bool driversLTurnedIn = false;
         bool socialSTurnedIn = false;
         bool birthCTurnedIn = false;
-        int count = 0;
+        int count = 1;
         bool isDriverLSelected = false;
         bool isSocialSSelected = false;
         bool isBirthCSelected = false;
-
 
         while (count <= 3)
         {
@@ -214,6 +216,7 @@ public class Program_UI
             switch (userInput)
             {
                 case "1":
+                case "Driver's License":
                     DriversL();
                     if (!isDriverLSelected)
                     {
@@ -222,10 +225,12 @@ public class Program_UI
                     }
                     else
                     {
-                        System.Console.WriteLine("Sorry this is already selected");
+                        System.Console.WriteLine("...but this has already been selected");
+                        PressAnyKeyToContinue();
                     }
                     break;
                 case "2":
+                case "Social Security Card":
                     SocialS();
                     if (!isSocialSSelected)
                     {
@@ -234,10 +239,12 @@ public class Program_UI
                     }
                     else
                     {
-                        System.Console.WriteLine("Sorry this is already selected");
+                        System.Console.WriteLine("...but this has already been selected");
+                        PressAnyKeyToContinue();
                     }
                     break;
                 case "3":
+                case "Birth Certificate":
                     BirthC();
                     if (!isBirthCSelected)
                     {
@@ -246,16 +253,20 @@ public class Program_UI
                     }
                     else
                     {
-                        System.Console.WriteLine("Sorry this is already selected");
+                        System.Console.WriteLine("...but this has already been selected");
+                        PressAnyKeyToContinue();
                     }
                     break;
                 case "4":
+                case "Arm":
                     Arm();
                     break;
                 case "5":
+                case "Leg":
                     Leg();
                     break;
                 case "6":
+                case "Credit Card":
                     CreditC();
                     break;
             }
@@ -310,10 +321,11 @@ public class Program_UI
         ApproachingTheCounter();
     }
 
-    // Start of not being broken
     private void LastScenario()
     {
+        PressAnyKeyToContinue();
         Console.Clear();
+
         System.Console.WriteLine("As you hand the third item over to the DMV worker, they are joined by a cast of hooded figures who lay the artifacts at three equidistant points...the lights suddenly go dark. Choose a method of sacrifice to seal the oath and cast the incantation:\n" +
             "1. Arm\n" +
             "2. Leg\n" +
@@ -323,21 +335,46 @@ public class Program_UI
         switch (userInput)
         {
             case "1":
-                LastScenarioPart2();
+                LastScenarioPart2a();
                 break;
             case "2":
-                LastScenarioPart2();
+                LastScenarioPart2b();
                 break;
             case "3":
-                LastScenarioPart2();
+                LastScenarioPart2c();
                 break;
         }
     }
 
-    private void LastScenarioPart2()
+    // ARM
+    private void LastScenarioPart2a()
+    {
+        System.Console.WriteLine("Scoffing, the DMV worker spits at you 'Sir...this is a public property I'm afraid that means I'm going to disarm you'. Before you know what's happening the DMV worker sinks her elongated fangs into you arm, panicking you think to yourself 'I should have stayed home and kept coding...', all of sudden a voice filters through the speaker...\n" +
+
+        "The DMV is now closed... please come back to complete your transaction tomorrow.");
+
+        PressAnyKeyToContinue();
+
+        LastScenarioPart3();
+    }
+
+    // LEG
+    private void LastScenarioPart2b()
+    {
+        System.Console.WriteLine("Scoffing, the DMV worker spits at you 'You may think it's a cruel joke the prices we charge to renew your registration, but unfortunately the only kind of leg pulling we're doing is literal'. Before you know what's happening the DMV worker sinks her elongated fangs into you leg, panicking you think to yourself 'I should have stayed home and kept coding...', all of sudden a voice filters through the speaker...\n" +
+
+        "The DMV is now closed... please come back to complete your transaction tomorrow.");
+
+        PressAnyKeyToContinue();
+
+        LastScenarioPart3();
+    }
+
+    private void LastScenarioPart2c()
     {
         System.Console.WriteLine("As the sacrifice is laid in the center of three equidistant points. Directly before you the eyes of the DMV worker roll to the back of their sockets, the wind starts to scatter papers, and you hear the whispers that soon grow into murmurs that become a hellish chorus. Suddenly, a flickering buzz in your head is broken by a single voice:\n" +
-        "The DMV is now closed, all nevers higher than ... please come back to complete your transaction tomorrow.");
+
+        "The DMV is now closed... please come back to complete your transaction tomorrow.");
 
         PressAnyKeyToContinue();
 
@@ -348,8 +385,6 @@ public class Program_UI
     {
         Console.Clear();
         System.Console.WriteLine("It's tomorrow at 9:00am...");
-
-        PressAnyKeyToContinue();
 
         YouWonTheGame();
     }
