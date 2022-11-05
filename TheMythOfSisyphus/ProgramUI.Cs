@@ -1,15 +1,11 @@
+// To do list: Go through the game and check semantics on wording
+
 using static System.Console;
 
 public class Program_UI
 {
-
     private bool IsRunning = true;
     bool MissionComplete = false;
-    // REPOSITORY
-    // public Program_UI()
-    // {
-    //     SeedData();
-    // }
 
     public void Run()
     {
@@ -71,6 +67,8 @@ public class Program_UI
                 break;
         }
     }
+
+    // Number 2 Route
     private void CopEventStart()
     {
         Console.Clear();
@@ -113,7 +111,6 @@ public class Program_UI
         System.Console.WriteLine("Are you attempting to bribe an officer of the law?! Guess you don't need to renew your plates. The state trooper cuffs you and sends you to jail forever!");
 
         PressAnyKeyToContinue();
-
         YouLostTheGame();
     }
 
@@ -136,6 +133,7 @@ public class Program_UI
         }
     }
 
+    // Number 1 Route
     private void HeadToTheDMV()
     {
         Console.Clear();
@@ -194,9 +192,6 @@ public class Program_UI
 
     private void ApproachingTheCounter()
     {
-       // bool driversLTurnedIn = false;
-       // bool socialSTurnedIn = false;
-       // bool birthCTurnedIn = false;
         int count = 1;
         bool isDriverLSelected = false;
         bool isSocialSSelected = false;
@@ -271,25 +266,22 @@ public class Program_UI
                     break;
             }
         }
-
+        
         LastScenario();
     }
     private void DriversL()
     {
         System.Console.WriteLine("Thank you for your Driver's License...");
-       // bool driversLTurnedIn = true;
     }
 
     private void SocialS()
     {
         System.Console.WriteLine("Thank you for your Social Security Card");
-        //bool socialSTurnedIn = true;
     }
 
     private void BirthC()
     {
         System.Console.WriteLine("Thank you for your Birth Certificate");
-      //  bool birthCTurnedIn = true;
     }
 
 
@@ -298,7 +290,6 @@ public class Program_UI
         System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
 
         PressAnyKeyToContinue();
-
         ApproachingTheCounter();
     }
 
@@ -307,7 +298,6 @@ public class Program_UI
         System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
 
         PressAnyKeyToContinue();
-
         ApproachingTheCounter();
     }
 
@@ -317,7 +307,6 @@ public class Program_UI
         System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
 
         PressAnyKeyToContinue();
-
         ApproachingTheCounter();
     }
 
@@ -346,7 +335,7 @@ public class Program_UI
         }
     }
 
-    // ARM
+    // Arm
     private void LastScenarioPart2a()
     {
         System.Console.WriteLine("Scoffing, the DMV worker spits at you 'Sir...this is a public property I'm afraid that means I'm going to disarm you'. Before you know what's happening the DMV worker sinks her elongated fangs into you arm, panicking you think to yourself 'I should have stayed home and kept coding...', all of sudden a voice filters through the speaker...\n" +
@@ -354,11 +343,10 @@ public class Program_UI
         "The DMV is now closed... please come back to complete your transaction tomorrow.");
 
         PressAnyKeyToContinue();
-
         LastScenarioPart3();
     }
 
-    // LEG
+    // Leg
     private void LastScenarioPart2b()
     {
         System.Console.WriteLine("Scoffing, the DMV worker spits at you 'You may think it's a cruel joke the prices we charge to renew your registration, but unfortunately the only kind of leg pulling we're doing is literal'. Before you know what's happening the DMV worker sinks her elongated fangs into you leg, panicking you think to yourself 'I should have stayed home and kept coding...', all of sudden a voice filters through the speaker...\n" +
@@ -366,10 +354,10 @@ public class Program_UI
         "The DMV is now closed... please come back to complete your transaction tomorrow.");
 
         PressAnyKeyToContinue();
-
         LastScenarioPart3();
     }
 
+    // Credit Card
     private void LastScenarioPart2c()
     {
         System.Console.WriteLine("As the sacrifice is laid in the center of three equidistant points. Directly before you the eyes of the DMV worker roll to the back of their sockets, the wind starts to scatter papers, and you hear the whispers that soon grow into murmurs that become a hellish chorus. Suddenly, a flickering buzz in your head is broken by a single voice:\n" +
@@ -377,7 +365,6 @@ public class Program_UI
         "The DMV is now closed... please come back to complete your transaction tomorrow.");
 
         PressAnyKeyToContinue();
-
         LastScenarioPart3();
     }
 
@@ -385,14 +372,12 @@ public class Program_UI
     {
         Console.Clear();
         System.Console.WriteLine("It's tomorrow at 9:00am...");
-
         YouWonTheGame();
     }
 
     private void YouWonTheGame()
     {
         System.Console.WriteLine("Where we came forth, and once saw the stars - Dante's Inferno");
-
         CloseGame();
     }
 
@@ -403,4 +388,3 @@ public class Program_UI
         CloseGame();
     }
 }
-
