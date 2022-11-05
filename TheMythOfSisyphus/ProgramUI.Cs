@@ -187,10 +187,10 @@ public class Program_UI
         ApproachingTheCounter();
     }
 
+
+    // DOES NOT WORK
     private void ApproachingTheCounter()
     {
-        Console.Clear();
-
         bool driversLTurnedIn = false;
         bool socialSTurnedIn = false;
         bool birthCTurnedIn = false;
@@ -284,52 +284,79 @@ public class Program_UI
 
     private void Arm()
     {
-        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair…you think it's about to charge and go back to your seat to try again");
+        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
 
-        SeatCounter();
-    }
-
-    private void Leg()
-    {
-        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair…you think it's about to charge and go back to your seat to try again");
-
-        SeatCounter();
-    }
-
-    private void CreditC()
-    {
-        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair…you think it's about to charge and go back to your seat to try again");
-
-        SeatCounter();
-    }
-
-
-    private void SeatCounter()
-    {
-        string ticketNumber2 = Console.ReadLine();
-        int number2 = int.Parse(ticketNumber2);
-        int almostNumber2 = (number2 - 1);
-
-        for (int c = 1; c <= number2; c++)
-        {
-            System.Console.WriteLine($"Ticket number {c} has been called");
-            if (c == number2)
-            {
-                System.Console.WriteLine("Finally your ticket number has been called!");
-            }
-        }
+        PressAnyKeyToContinue();
 
         ApproachingTheCounter();
     }
 
+    private void Leg()
+    {
+        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
+
+        PressAnyKeyToContinue();
+
+        ApproachingTheCounter();
+    }
+
+
+    private void CreditC()
+    {
+        System.Console.WriteLine("The BMV attendant snorts at you and kicks its hoof into the soil beneath its chair ... you think it's about to charge so you go back to your seat to try and wait for your number to be called again before approaching the counter once more...");
+
+        PressAnyKeyToContinue();
+
+        ApproachingTheCounter();
+    }
+
+    // Start of not being broken
     private void LastScenario()
     {
+        Console.Clear();
+        System.Console.WriteLine("As you hand the third item over to the DMV worker, they are joined by a cast of hooded figures who lay the artifacts at three equidistant points...the lights suddenly go dark. Choose a method of sacrifice to seal the oath and cast the incantation:\n" +
+            "1. Arm\n" +
+            "2. Leg\n" +
+            "3. Credit card\n");
 
+        var userInput = ReadLine();
+        switch (userInput)
+        {
+            case "1":
+                LastScenarioPart2();
+                break;
+            case "2":
+                LastScenarioPart2();
+                break;
+            case "3":
+                LastScenarioPart2();
+                break;
+        }
+    }
+
+    private void LastScenarioPart2()
+    {
+        System.Console.WriteLine("As the sacrifice is laid in the center of three equidistant points. Directly before you the eyes of the DMV worker roll to the back of their sockets, the wind starts to scatter papers, and you hear the whispers that soon grow into murmurs that become a hellish chorus. Suddenly, a flickering buzz in your head is broken by a single voice:\n" +
+        "The DMV is now closed, all nevers higher than ... please come back to complete your transaction tomorrow.");
+
+        PressAnyKeyToContinue();
+
+        LastScenarioPart3();
+    }
+
+    private void LastScenarioPart3()
+    {
+        Console.Clear();
+        System.Console.WriteLine("It's tomorrow at 9:00am...");
+
+        PressAnyKeyToContinue();
+
+        YouWonTheGame();
     }
 
     private void YouWonTheGame()
     {
-        System.Console.WriteLine("");
+        System.Console.WriteLine("Where we came forth, and once saw the stars - Dante's Inferno");
 
         CloseGame();
     }

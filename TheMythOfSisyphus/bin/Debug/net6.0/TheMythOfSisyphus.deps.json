@@ -7,41 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "TheMythOfSisyphus/1.0.0": {
-        "dependencies": {
-          "TheMythOfSisyphus.Data": "1.0.0",
-          "TheMythOfSisyphus.Repository": "1.0.0"
-        },
         "runtime": {
           "TheMythOfSisyphus.dll": {}
-        }
-      },
-      "TheMythOfSisyphus.Data/1.0.0": {
-        "runtime": {
-          "TheMythOfSisyphus.Data.dll": {}
-        }
-      },
-      "TheMythOfSisyphus.Repository/1.0.0": {
-        "dependencies": {
-          "TheMythOfSisyphus.Data": "1.0.0"
-        },
-        "runtime": {
-          "TheMythOfSisyphus.Repository.dll": {}
         }
       }
     }
   },
   "libraries": {
     "TheMythOfSisyphus/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "TheMythOfSisyphus.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "TheMythOfSisyphus.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
