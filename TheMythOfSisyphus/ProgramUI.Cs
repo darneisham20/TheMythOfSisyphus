@@ -11,14 +11,14 @@ public class Program_UI
     {
         RunApplication();
     }
-
+//*Edited Start Game in-game text
     private void RunApplication()
     {
         while (IsRunning)
         {
-            System.Console.WriteLine("Welcome to The Myth of Sisyphus, please make a selection:\n" +
-                "1. Start Game\n" +
-                "2. End Game");
+            System.Console.WriteLine("Another day, another boulder: Welcome to The Myth of Sisyphus, please make a selection:\n" +
+                "1. Enter the Cycle \n" +
+                "2. Give Up Now");
 
             var userInput = ReadLine();
             switch (userInput)
@@ -68,15 +68,19 @@ public class Program_UI
         }
     }
 
-    // Number 2 Route
+    // Number 2 Route //* Edited in-game text, added "invalid selection" default to user input.
     private void CopEventStart()
     {
         Console.Clear();
-        System.Console.WriteLine("Securing the notion that you'll enjoy your day off - your eyes glaze over...all of a sudden, it's tomorrow 9:00am");
+        System.Console.WriteLine("Secure in the notion that you'll enjoy your day off, you begin to imagine all the possibilities, \n" +
+                                "Hittin' the links with the boys...  Crackin' open a cold one with the boys... \n" +
+                                "Finally figuring out why the boys stopped returning your calls... \n" +
+                                "- your eyes glaze over as the world passes around you. You stand in front of your trunk as the sky turns \n" +
+                                "from blue to amber, from amber to navy, and back to blue again. all of a sudden, it's tomorrow 9:00am");
 
         PressAnyKeyToContinue();
 
-        System.Console.WriteLine("It's a beautiful day, you can't wait to go outside and enjoy your day off! Oh sh*t...your tags are expired...\n" +
+        System.Console.WriteLine("It's a beautiful day, you can't wait to go outside and enjoy your day off! Oh sh*t... you're already outside.\n" +
             "1. Be Productive\n");
 
         var userInput = ReadLine();
@@ -85,13 +89,21 @@ public class Program_UI
             case "1":
                 CopEventMiddle();
                 break;
+            default:
+                WriteLine("Invalid Selection");
+                    break;
         }
     }
-
+//* Edited in-game text //* added "invalid selection" default
     private void CopEventMiddle()
     {
-        System.Console.WriteLine("You get in your car...start the engine and start heading over to the DMV. WEEWOO WEEWOO! Your laziness has cost you, and now an interceptor with the state trooper has come to show you the error of your ways. You hear the crunch of the heels of his boots on the gravel of the shoulder of the highway as he approaches your driver side window...\n" +
-            "1. Equip and use item: Disarming Phrase!\n" +
+        System.Console.WriteLine("You get in your car...start the engine and start heading over to the DMV. \n" +
+                                "\n" +
+                                "WEEWOO WEEWOO! \n" +
+                                "\n" +
+                                "Your laziness has cost you, and now an interceptor with the state troopers has come to show you the error of your ways. \n" +
+                                "You hear the crunch of the heels of his boots on the gravel of the shoulder of the highway as he approaches your driver side window...\n" +
+            "1. Quick!!! Equip and use item: Disarming Phrase!\n" +
             "2. Hand over your license and registration");
 
         var userInput = ReadLine();
@@ -103,12 +115,16 @@ public class Program_UI
             case "2":
                 RestartOfGame();
                 break;
+            default:
+                WriteLine("Invalid Selection");
+                break;
         }
     }
 
     private void CopEventEndGame()
     {
-        System.Console.WriteLine("Are you attempting to bribe an officer of the law?! Guess you don't need to renew your plates. The state trooper cuffs you and sends you to jail forever!");
+        System.Console.WriteLine("ARE YOU ATTEMPTING TO BRIBE AN OFFICER OF THE LAW?!?!?!? \n" +
+                                "Guess you don't need to renew your plates. The state trooper cuffs you and sends you to jail forever!");
 
         PressAnyKeyToContinue();
         YouLostTheGame();
@@ -117,32 +133,55 @@ public class Program_UI
     private void RestartOfGame()
     {
         Console.Clear();
-        System.Console.WriteLine("The cop writes you a ticket and sends you straight home with no dinner. It's tomorrow 9:00am.");
+        System.Console.WriteLine("The cop writes you a ticket and sends you straight to bed with no dinner.... It's tomorrow at 9:00am.");
 
         PressAnyKeyToContinue();
 
         System.Console.WriteLine("It's a beautiful day, you can't wait to go outside and enjoy your day off! Oh sh*t...your tags are expired...\n" +
             "1. Be Productive\n");
 
-        var userInput = ReadLine();
+        var userInput = ReadLine(); //* Added Invalid Selection default
         switch (userInput)
         {
             case "1":
                 HeadToTheDMV();
                 break;
+            default:
+                    WriteLine("Invalid Selection");
+                    break;
         }
     }
 
-    // Number 1 Route
+    // Number 1 Route //* Included story text for the other patrons (four horsemen) - requires player to click through
     private void HeadToTheDMV()
     {
         Console.Clear();
 
-        System.Console.WriteLine("You arrive at the BMV and see four seats taken by the following characters...(C1, C2, C3, C4)");
+        System.Console.WriteLine("You arrive at the BMV and see four seats already occupied by patrons. \n" + 
+                                "You're surprised to see the first guy dressed in all red, and carrying a side arm. Weird - you didn't think they let the public carry swords at the BMV. \n" +
+                                "Better walk around him...." ;
 
         PressAnyKeyToContinue();
         Console.Clear();
 
+        System.Console.WriteLine("You almost miss the second patron, then you hear their stomach growl un-naturally loud as you pass them. \n" + 
+                                "Teenagers man. The whole all-black outfit, malnourished emo look never seems to go away. Not worth skipping breakfast. \n" +
+                                "Better keep moving - kid's lookin' at your fingers like you look at hot wings. \n ";
+
+        PressAnyKeyToContinue();
+        Console.Clear();
+
+        System.Console.WriteLine( "As you walk past the third patron, you consider complimenting their green ... frock? \n" +
+                                "On second thought, you decide to keep walking when you notice the cough and the various oozing orifices. gross. \n" +
+                                "Whatever happened to 6 feet...." ;
+
+        System.Console.WriteLine("6 Feet under? I KNOW RIGHT?!?!  \n" +
+                                "Oh you gotta be kidding me - the voice you hear agreeing with you appears to be coming from a cloaked figure carrying a scythe. \n" +
+                                "You feel like you recognize these guys from somewhere... better not think too hard about it. You're here for a reason.";
+
+        PressAnyKeyToContinue();
+        Console.Clear();
+//todo: Finish copy editing and adding invalid defaults to lines 185 - End
         System.Console.WriteLine("You pull a number from the MICROFRAME B80 TURN-O-MATIC TAKE A NUMBER TICKET DISPENSER available at Microframe Corp (https://microframecorp.com/6000-0090-kit-b80-turn-o-matic-take-a-number-ticket-dispenser-floor-kit)");
         System.Console.WriteLine("Please enter a number from 5-8");
 
