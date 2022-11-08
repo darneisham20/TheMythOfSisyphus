@@ -11,7 +11,7 @@ public class Program_UI
     {
         RunApplication();
     }
-//*Edited Start Game in-game text
+    //*Edited Start Game in-game text
     private void RunApplication()
     {
         while (IsRunning)
@@ -91,10 +91,10 @@ public class Program_UI
                 break;
             default:
                 WriteLine("Invalid Selection");
-                    break;
+                break;
         }
     }
-//* Edited in-game text //* added "invalid selection" default
+    //* Edited in-game text //* added "invalid selection" default
     private void CopEventMiddle()
     {
         System.Console.WriteLine("You get in your car...start the engine and start heading over to the DMV. \n" +
@@ -147,8 +147,8 @@ public class Program_UI
                 HeadToTheDMV();
                 break;
             default:
-                    WriteLine("Invalid Selection");
-                    break;
+                WriteLine("Invalid Selection");
+                break;
         }
     }
 
@@ -157,31 +157,31 @@ public class Program_UI
     {
         Console.Clear();
 
-        System.Console.WriteLine("You arrive at the BMV and see four seats already occupied by patrons. \n" + 
+        System.Console.WriteLine("You arrive at the BMV and see four seats already occupied by patrons. \n" +
                                 "You're surprised to see the first guy dressed in all red, and carrying a side arm. Weird - you didn't think they let the public carry swords at the BMV. \n" +
-                                "Better walk around him...." ;
+                                "Better walk around him....");
 
         PressAnyKeyToContinue();
         Console.Clear();
 
-        System.Console.WriteLine("You almost miss the second patron, then you hear their stomach growl un-naturally loud as you pass them. \n" + 
+        System.Console.WriteLine("You almost miss the second patron, then you hear their stomach growl un-naturally loud as you pass them. \n" +
                                 "Teenagers man. The whole all-black outfit, malnourished emo look never seems to go away. Not worth skipping breakfast. \n" +
-                                "Better keep moving - kid's lookin' at your fingers like you look at hot wings. \n ";
+                                "Better keep moving - kid's lookin' at your fingers like you look at hot wings. \n");
 
         PressAnyKeyToContinue();
         Console.Clear();
 
-        System.Console.WriteLine( "As you walk past the third patron, you consider complimenting their green ... frock? \n" +
+        System.Console.WriteLine("As you walk past the third patron, you consider complimenting their green ... frock? \n" +
                                 "On second thought, you decide to keep walking when you notice the cough and the various oozing orifices. gross. \n" +
-                                "Whatever happened to 6 feet...." ;
+                                "Whatever happened to 6 feet....");
 
         System.Console.WriteLine("6 Feet under? I KNOW RIGHT?!?!  \n" +
                                 "Oh you gotta be kidding me - the voice you hear agreeing with you appears to be coming from a cloaked figure carrying a scythe. \n" +
-                                "You feel like you recognize these guys from somewhere... better not think too hard about it. You're here for a reason.";
+                                "You feel like you recognize these guys from somewhere... better not think too hard about it. You're here for a reason.");
 
         PressAnyKeyToContinue();
         Console.Clear();
-//todo: Finish copy editing and adding invalid defaults to lines 185 - End
+        //todo: Finish copy editing and adding invalid defaults to lines 185 - End
         System.Console.WriteLine("You pull a number from the MICROFRAME B80 TURN-O-MATIC TAKE A NUMBER TICKET DISPENSER available at Microframe Corp (https://microframecorp.com/6000-0090-kit-b80-turn-o-matic-take-a-number-ticket-dispenser-floor-kit)");
         System.Console.WriteLine("Please enter a number from 5-8");
 
@@ -305,7 +305,7 @@ public class Program_UI
                     break;
             }
         }
-        
+
         LastScenario();
     }
     private void DriversL()
