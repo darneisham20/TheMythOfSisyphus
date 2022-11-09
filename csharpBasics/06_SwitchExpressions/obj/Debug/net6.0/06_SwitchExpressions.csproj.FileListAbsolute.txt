@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/bin/Debug/net6.0/06_SwitchExpressions
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/bin/Debug/net6.0/06_SwitchExpressions.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/bin/Debug/net6.0/06_SwitchExpressions.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/bin/Debug/net6.0/06_SwitchExpressions.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/bin/Debug/net6.0/06_SwitchExpressions.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/refint/06_SwitchExpressions.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/06_SwitchExpressions.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_SwitchExpressions/obj/Debug/net6.0/ref/06_SwitchExpressions.dll

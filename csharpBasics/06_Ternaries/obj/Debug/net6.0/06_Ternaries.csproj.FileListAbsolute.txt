@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/bin/Debug/net6.0/06_Ternaries
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/bin/Debug/net6.0/06_Ternaries.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/bin/Debug/net6.0/06_Ternaries.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/bin/Debug/net6.0/06_Ternaries.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/bin/Debug/net6.0/06_Ternaries.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/refint/06_Ternaries.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/06_Ternaries.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_Ternaries/obj/Debug/net6.0/ref/06_Ternaries.dll

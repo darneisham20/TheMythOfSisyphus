@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/bin/Debug/net6.0/Whileloops
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/bin/Debug/net6.0/Whileloops.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/bin/Debug/net6.0/Whileloops.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/bin/Debug/net6.0/Whileloops.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/bin/Debug/net6.0/Whileloops.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/refint/Whileloops.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/Whileloops.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/While/obj/Debug/net6.0/ref/Whileloops.dll

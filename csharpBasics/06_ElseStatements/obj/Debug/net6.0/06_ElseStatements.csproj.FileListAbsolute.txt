@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/bin/Debug/net6.0/06_ElseStatements
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/bin/Debug/net6.0/06_ElseStatements.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/bin/Debug/net6.0/06_ElseStatements.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/bin/Debug/net6.0/06_ElseStatements.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/bin/Debug/net6.0/06_ElseStatements.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/refint/06_ElseStatements.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/06_ElseStatements.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/06_ElseStatements/obj/Debug/net6.0/ref/06_ElseStatements.dll

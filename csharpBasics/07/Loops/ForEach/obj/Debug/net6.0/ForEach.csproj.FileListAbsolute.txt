@@ -1,0 +1,15 @@
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.csproj.AssemblyReference.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.AssemblyInfoInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.AssemblyInfo.cs
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.csproj.CoreCompileInputs.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/bin/Debug/net6.0/ForEach
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/bin/Debug/net6.0/ForEach.deps.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/bin/Debug/net6.0/ForEach.runtimeconfig.json
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/bin/Debug/net6.0/ForEach.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/bin/Debug/net6.0/ForEach.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/refint/ForEach.dll
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.pdb
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ForEach.genruntimeconfig.cache
+/Users/zacharyhimes/Desktop/ElevenFifty/ElevenFiftyProjects/codingFoundations/csharpBasics/07/Loops/ForEach/obj/Debug/net6.0/ref/ForEach.dll

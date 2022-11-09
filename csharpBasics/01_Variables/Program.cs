@@ -8,6 +8,7 @@ string    firstName    =                    "Zach";
 //todo: 4 value
 
 Console.WriteLine(firstName);
+
 Console.WriteLine("What is your favorite color?");
 
 //declare a string color and we want to assign whatever the user types.
